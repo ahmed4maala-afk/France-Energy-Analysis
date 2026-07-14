@@ -91,16 +91,14 @@ Report pages: **Regional Production · Nuclear vs. Renewable · Consumption · P
 
 ---
 
-## Repository Contents
+ ## Repository Contents
 
-```
-.
-├── Energy_Final_Report_30.03.2026.pbix   # Final Power BI report (5 pages)
-├── docs/img/                             # Dashboard screenshots
+ .
+├── France_Energy_Final_Clean.ipynb   # Data cleaning & preparation (Python)
+├── docs/img/                         # Power BI dashboard screenshots
 └── README.md
-```
 
-> Open the `.pbix` in **Power BI Desktop** (free) to explore the model, DAX measures, and interactive slicers.
+> The full Power BI report — 5 pages, star schema, DAX measures, and interactive slicers — is available on request (`.pbix`, exceeds GitHub's file-size limit).
 
 ---
 
